@@ -17,7 +17,7 @@ namespace KP.Excel.To.Sql.Param.Console
 
             foreach (var record in records)
             {
-                System.Console.WriteLine($"\'{record.Email}\',");
+                System.Console.WriteLine($"\'{record.Account}\',");
             }
 
             System.Console.WriteLine("Press any key to close");
