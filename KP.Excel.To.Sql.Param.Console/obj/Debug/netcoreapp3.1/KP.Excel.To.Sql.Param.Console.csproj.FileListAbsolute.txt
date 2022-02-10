@@ -1,0 +1,16 @@
+C:\Development\excel-to-sql-param\KP.Excel.To.Sql.Param.Console\bin\Debug\netcoreapp3.1\KP.Excel.To.Sql.Param.Console.exe
+C:\Development\excel-to-sql-param\KP.Excel.To.Sql.Param.Console\bin\Debug\netcoreapp3.1\KP.Excel.To.Sql.Param.Console.deps.json
+C:\Development\excel-to-sql-param\KP.Excel.To.Sql.Param.Console\bin\Debug\netcoreapp3.1\KP.Excel.To.Sql.Param.Console.runtimeconfig.json
+C:\Development\excel-to-sql-param\KP.Excel.To.Sql.Param.Console\bin\Debug\netcoreapp3.1\KP.Excel.To.Sql.Param.Console.runtimeconfig.dev.json
+C:\Development\excel-to-sql-param\KP.Excel.To.Sql.Param.Console\bin\Debug\netcoreapp3.1\KP.Excel.To.Sql.Param.Console.dll
+C:\Development\excel-to-sql-param\KP.Excel.To.Sql.Param.Console\bin\Debug\netcoreapp3.1\KP.Excel.To.Sql.Param.Console.pdb
+C:\Development\excel-to-sql-param\KP.Excel.To.Sql.Param.Console\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Development\excel-to-sql-param\KP.Excel.To.Sql.Param.Console\obj\Debug\netcoreapp3.1\KP.Excel.To.Sql.Param.Console.csproj.AssemblyReference.cache
+C:\Development\excel-to-sql-param\KP.Excel.To.Sql.Param.Console\obj\Debug\netcoreapp3.1\KP.Excel.To.Sql.Param.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\excel-to-sql-param\KP.Excel.To.Sql.Param.Console\obj\Debug\netcoreapp3.1\KP.Excel.To.Sql.Param.Console.AssemblyInfoInputs.cache
+C:\Development\excel-to-sql-param\KP.Excel.To.Sql.Param.Console\obj\Debug\netcoreapp3.1\KP.Excel.To.Sql.Param.Console.AssemblyInfo.cs
+C:\Development\excel-to-sql-param\KP.Excel.To.Sql.Param.Console\obj\Debug\netcoreapp3.1\KP.Excel.To.Sql.Param.Console.csproj.CoreCompileInputs.cache
+C:\Development\excel-to-sql-param\KP.Excel.To.Sql.Param.Console\obj\Debug\netcoreapp3.1\KP.Excel.To.Sql.Param.Console.csproj.CopyComplete
+C:\Development\excel-to-sql-param\KP.Excel.To.Sql.Param.Console\obj\Debug\netcoreapp3.1\KP.Excel.To.Sql.Param.Console.dll
+C:\Development\excel-to-sql-param\KP.Excel.To.Sql.Param.Console\obj\Debug\netcoreapp3.1\KP.Excel.To.Sql.Param.Console.pdb
+C:\Development\excel-to-sql-param\KP.Excel.To.Sql.Param.Console\obj\Debug\netcoreapp3.1\KP.Excel.To.Sql.Param.Console.genruntimeconfig.cache
